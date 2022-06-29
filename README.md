@@ -1,4 +1,4 @@
-# Spring Boot basics - trainning
+# Spring Boot basics
 
 ## About
 The following repo contains a Spring Boot example that connects to an existing Database (Postgres) and uses an internal REST API that can be tested with Postman/Insomnia
